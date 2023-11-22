@@ -3,9 +3,8 @@
 <img src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif" alt="46+ Anime Computer Gif Tumblr Images - Administrasi Guru SD SMP SMA" class=" nofocus" tabindex="0" aria-label="46+ Anime Computer Gif Tumblr Images - Administrasi Guru SD SMP SMA" role="button" data-bm="171" height="auto" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-tripathi&label=Profile%20views&color=0e75b6&style=flat" alt="d-tripathi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-tripathi" alt="d-tripathi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🔭 I’m currently working on **Web Development**
 
