@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Devesh Anand Tripathi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer Science Enthusiast</h3>
 <img src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif" alt="46+ Anime Computer Gif Tumblr Images - Administrasi Guru SD SMP SMA" class=" nofocus" tabindex="0" aria-label="46+ Anime Computer Gif Tumblr Images - Administrasi Guru SD SMP SMA" role="button" data-bm="171" height="auto" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-tripathi&label=Profile%20views&color=0e75b6&style=flat" alt="d-tripathi" /> </p>
 
 
 
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Algorithm Designing**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently Mastering **C & C++**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
